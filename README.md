@@ -16,7 +16,6 @@ Tech Stack:
 
 Project Structure: 
 FaceDetect/
-│
 ├── face_detection.py
 ├── test.jpg
 ├── requirements.txt
